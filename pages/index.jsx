@@ -44,7 +44,7 @@ export default function Home() {
 
   return (
     <>
-      <div className="container w-auto h-auto sm:w-[410px] ml-[20px] mr-[20px] sm:mx-auto mt-48">
+      <div className="container w-auto h-auto sm:w-[410px] ml-[20px] mr-[20px] sm:mx-auto mt-24 sm:mt-48 mb-[24px]">
         <div className="flex flex-col justify-between">
           <div
             className={`flex flex-col gap-[31px] p-[32px] bg-gradient-to-b from-darkblue/[0.8] to-verydarkblue/[0.4] rounded-[32px] ${scoreBlock}`}
