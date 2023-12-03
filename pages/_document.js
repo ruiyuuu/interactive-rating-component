@@ -15,7 +15,7 @@ export default function Document() {
           content="front end challenge||Interactive-rating-component|front end challenge|next.js+Tailwind"
         />
         <meta name="author" content="Jasmine" />
-        <link rel="icon" href="../public/favicon.ico" />
+        <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
         <link
