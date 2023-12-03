@@ -23,7 +23,7 @@ export default function Document() {
           rel="stylesheet"
         />
       </Head>
-      <body>
+      <body className="bg-verydarkblue">
         <Main />
         <NextScript />
       </body>
