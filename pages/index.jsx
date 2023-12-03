@@ -127,7 +127,7 @@ export default function Home() {
             Code By &ensp;
             <a
               className="underline text-primary/[0.8]"
-              href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"
+              href="https://github.com/ruiyuuu/interactive-rating-component"
             >
               Jasmine
             </a>
