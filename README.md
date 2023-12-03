@@ -2,6 +2,8 @@
 
 ![Design preview for the Interactive rating component coding challenge](./public/desktop-preview.jpg)
 
+DEMO[https://interactive-rating-component-hazel-ten.vercel.app/]
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
